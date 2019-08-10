@@ -1,8 +1,10 @@
 # Custom
-## MacOS Caches
+# MacOS Caches
 .DS_Store
 .localized
-## Dataset Folder
+# PyCharm
+.idea/
+# Dataset Folder
 dataset/
 
 # Byte-compiled / optimized / DLL files
